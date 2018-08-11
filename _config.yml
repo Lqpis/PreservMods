@@ -1,4 +1,3 @@
 theme: jekyll-theme-cayman
 github:
-  repository_url: https://mega.nz/#F!3nZ3na4a!QSzKlDwyvyaTnGSigfFmmw!fuJlgY7L
-  show_downloads: true
+  is_project_page: false

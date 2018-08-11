@@ -1,3 +1,3 @@
-## Welcome to PreservOptifine
+## Welcome to PreservMods
 
-This site was made to preserve the older versions of Optifine for historical reasons.
+This site was made to preserve the older versions of Minecraft Mods for historical reasons.

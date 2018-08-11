@@ -1,2 +1,2 @@
-# PreservOptifine
-Old versions of Optifine preserved.
+# PreservMods
+Old versions of Minecraft Mods preserved.
